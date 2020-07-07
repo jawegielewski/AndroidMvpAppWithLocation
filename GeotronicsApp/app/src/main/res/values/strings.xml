@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeotronicsApp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="get_position">Get receiver\'s position</string>
+    <string name="my_location">My position</string>
+    <string name="distance">Set distance</string>
+    <string name="set_line">Set line</string>
+    <string name="start_logging_data">Start logging data</string>
+    <string name="stop_logging_data">Stop logging data</string>
+    <string name="map">Map</string>
+    <string name="exit">Exit</string>
+    <string name="error_occured">An error occurred:</string>
+    <string name="receiver">Receiver</string>
+    <string name="receivers_latitude">Receiver\'s latitude:</string>
+    <string name="receivers_longitude">Receiver\'s longitude:</string>
+    <string name="my_lat">My latitude: </string>
+    <string name="my_lon">My longitude: </string>
+    <string name="getting_receivers_coords">Getting receiver\'s coordinations…</string>
+    <string name="wait_to_find_location">Turn on location on phone or if it is already turned on wait some time…</string>
+</resources>

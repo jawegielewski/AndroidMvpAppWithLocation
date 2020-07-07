@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeotronicsApp</string>
+    <string name="open">otwórz</string>
+    <string name="close">zamknij</string>
+    <string name="get_position">Pobierz pozycję odbiornika</string>
+    <string name="my_location">Moja pozycja</string>
+    <string name="distance">Określ dystans</string>
+    <string name="set_line">Narysuj linię</string>
+    <string name="start_logging_data">Zacznij logować dane</string>
+    <string name="stop_logging_data">Zakończ logować dane</string>
+    <string name="map">Mapa</string>
+    <string name="exit">Wyjście</string>
+    <string name="error_occured">Pojawił się błąd:</string>
+    <string name="receiver">Odbiornik</string>
+    <string name="receivers_latitude">Szerokość geo. odbiornika:</string>
+    <string name="receivers_longitude">Długość geo. odbiornika:</string>
+    <string name="my_lat">Moja szerokość geo.: </string>
+    <string name="my_lon">Moja długość geo.: </string>
+    <string name="getting_receivers_coords">Pobieranie współrzędnych odbiornika…</string>
+    <string name="wait_to_find_location">Włącz lokalizację w telefonie lub jeśli jest włączona poczekaj chwilę…</string>
+</resources>
